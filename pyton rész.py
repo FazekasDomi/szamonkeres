@@ -3,7 +3,7 @@
 vezeteknev = int(input("szeretnék egy vezetéknevet"))
 keresztnev = int(input("szeretnék egy keresztnevet"))
 nev = vezeteknev+keresztnev
-    print(nev)'''
+    print(nev,"szia")'''
 #2
 '''
 v = int(input("szeretnék egy számot"))
